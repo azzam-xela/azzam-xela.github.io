@@ -1,123 +1,49 @@
----
-layout: default
----
+Howdy! I'm Alex, an aspiring cybersecurity professional with a passion for Capture The Flags, malware analysis, and malware development. Here, you will find an overview of my projects, skills, and certifications.
+## About Me
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+I'm a current mathematics major at the University of Western Australia, and convert to the world of cybersecurity. Since learning about this field, i've dedicated myself to soaking up as much knowledge as possible. This has resulted in many hours 
+solving CTF's on the [hackthebox platform](https://www.hackthebox.com/), analysing and reverse-engineering malware, developing malware, and pulling apart IoT devices to study their internals. 
 
-[Test Markdownfile](./test_markdown.md).
+## Skills
+- **Penetration Testing:** Network, wireless, and web application testing
+- **Programming Languages:** Python, C, Bash
+- **Malware Analysis & Reverse Engineering**
+- **Networking:** TCP/IP, Active Directory, Wireless Security
+- **Tools:** Metasploit, Wireshark, Netcat (nc), Burp Suite, Nmap
 
-There should be whitespace between paragraphs.
+## Projects
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### 1. C2 Framework 
+- A custom tool developed to automate various steps in wireless security assessments.
+- Written in Python and focused on ease of use and functionality for practical testing.
 
-# Header 1
+[View Project](https://github.com/azzam-xela/Python-C2-)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+### 2. Remote Access Trojan (RAT)
+- Developed a simple RAT as part of my learning in malware development.
+- Built using Python, with functionalities like file transfer, command execution, and remote access.
 
-## Header 2
+[View Project](https://github.com/yourusername/rat-tool)
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+### 3. Buffer Overflow and Binary Exploitation Exercises
+- Completed a series of exercises related to buffer overflows and binary exploitation.
+- Documented the learning process and results in my GitHub for others to reference.
 
-### Header 3
+[View Exercises](https://github.com/yourusername/buffer-overflows)
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+## Certifications & Courses
+- **Hack the Box - Pro Labs**: Completed "RastaLabs" for practical Active Directory exploitation.
+- **TryHackMe**: Completed "Pre-Security" and "Offensive Security" pathways.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+## Blog Posts
+I also maintain a [blog](https://github.com/yourusername/blog) where I share write-ups of my CTF experiences, lessons on cybersecurity concepts, and interesting findings from my research. Here are a few highlights:
 
-#### Header 4
+- **Analyzing Anomalous Log Entries to Detect Attacks**
+- **How to Make Your Own Cantenna for Wi-Fi Hacking**
+- **Exploring DLL Injection Techniques for Red Team Operations**
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+## Get in Touch
+- **Email**: [alex.mazza@outlook.com](mailto:alex.mazza@outlook.com)
+- **LinkedIn**: [linkedin.com/in/almazza](https://www.linkedin.com/in/almazza/)
 
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+Feel free to connect with me or check out my work here on GitHub. I'm always open to new opportunities to apply my skills and learn more in the field of cybersecurity!
