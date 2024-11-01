@@ -1,5 +1,3 @@
-# Welcome to My Portfolio
-
 Howdy! I'm Alex, an aspiring cybersecurity professional with a passion for penetration testing, malware analysis and malware development. Here, you will find an overview of my projects, skills and certifications.
 ## About Me
 
