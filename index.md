@@ -4,7 +4,7 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Test Markdownfile](./another-page.html).
+[Test Markdownfile](./test_markdown.md).
 
 There should be whitespace between paragraphs.
 
