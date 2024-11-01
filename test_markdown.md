@@ -1,10 +1,10 @@
 # Welcome to My Portfolio
 
-Hi there! I'm [Your Name], an aspiring cybersecurity professional with a passion for penetration testing, malware analysis, and wireless security. Here, you will find an overview of my projects, skills, and experiences in the field of cybersecurity.
-
+Howdy! I'm Alex, an aspiring cybersecurity professional with a passion for penetration testing, malware analysis and malware development. Here, you will find an overview of my projects, skills and certifications.
 ## About Me
 
-I'm a cybersecurity enthusiast with hands-on experience in ethical hacking, penetration testing, and security research. My journey so far has included learning from platforms like Hack the Box and TryHackMe, where I continually challenge myself and grow my skills. I also enjoy building custom tools and experimenting with hardware projects.
+Currently I'm a mathematics major at the University of Western Australia, and convert to the world of cybersecurity. Since learning about this field, i've dedicated myself to soaking up as much knowledge as I can. This has resulted in 
+solving CTF's on the [hackthebox platform](https://www.hackthebox.com/), analysing and reverse-engineering malware, developing malware, and pulling apart IoT devices to study their internals. 
 
 ## Skills
 - **Penetration Testing:** Network, wireless, and web application testing
