@@ -15,11 +15,11 @@ I'm a cybersecurity enthusiast with hands-on experience in ethical hacking, pene
 
 ## Projects
 
-### 1. Wireless Penetration Testing Tool
+### 1. C2 Framework 
 - A custom tool developed to automate various steps in wireless security assessments.
 - Written in Python and focused on ease of use and functionality for practical testing.
 
-[View Project](https://github.com/yourusername/wireless-pentest-tool)
+[View Project](https://github.com/azzam-xela/Python-C2-)
 
 ### 2. Remote Access Trojan (RAT)
 - Developed a simple RAT as part of my learning in malware development.
