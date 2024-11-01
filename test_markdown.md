@@ -1,7 +1,7 @@
 Howdy! I'm Alex, an aspiring cybersecurity professional with a passion for Capture The Flags, malware analysis, and malware development. Here, you will find an overview of my projects, skills, and certifications.
 ## About Me
 
-I'm a current mathematics major at the University of Western Australia, and convert to the world of cybersecurity. Since learning about this field, i've dedicated myself to soaking up as much knowledge as possible. This has resulted in 
+I'm a current mathematics major at the University of Western Australia, and convert to the world of cybersecurity. Since learning about this field, i've dedicated myself to soaking up as much knowledge as possible. This has resulted in many hours 
 solving CTF's on the [hackthebox platform](https://www.hackthebox.com/), analysing and reverse-engineering malware, developing malware, and pulling apart IoT devices to study their internals. 
 
 ## Skills
