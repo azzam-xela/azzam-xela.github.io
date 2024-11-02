@@ -1,4 +1,5 @@
-Welcome to the source code for my GitHub website! This website serves as a personal portfolio, a blog, or a showcase of my projects, and it is built using github pages, Jekyll templates, and HTML/CSS.
+Welcome to the source code for my GitHub website! This website serves as a personal portfolio. 
+It is built using github pages, Jekyll templates, and some HTML/CSS I sketchily cobbled together.
 
 Todo:
 - [ ] Create a section for blog posts
