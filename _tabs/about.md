@@ -15,7 +15,7 @@ Away from the screens, you’ll often find me soaking up the sun on my motorbike
 - **Programming Languages:** Python, C, Bash, Powershell
 - **Malware Analysis & Reverse Engineering:**
 - **Networking:** 
-- **Tools:**
+- **Tools:** nmap
 
 ## Certifications & Courses:
 ### Completed: 
