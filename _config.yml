@@ -14,9 +14,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Howdy! # the main title
+title: 👋 # the main title
 
-tagline: Here you will find an assorted mish-mash of write-ups, walk-throughs, and project over-views. # it will display as the subtitle
+tagline: # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
