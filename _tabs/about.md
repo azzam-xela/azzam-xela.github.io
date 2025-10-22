@@ -27,4 +27,4 @@ When I’m not lit by a wall of screens or doing my best to not get burnt whilst
 ## Get in touch
 
 Feel free to contact me at the following:
-[email](alex.mazza.math@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/almazza/).
+[email](mailto:alex.mazza.math@gmail.com) or find me on [LinkedIn](https://www.linkedin.com/in/almazza/).
