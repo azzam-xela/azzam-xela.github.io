@@ -1,0 +1,56 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+.popup {
+  position: relative;
+  display: inline-block;
+  cursor: pointer;
+  color: #3366cc;
+  text-decoration: underline dotted;
+}
+
+.popup .popup-content {
+  visibility: hidden;
+  opacity: 0;
+  width: 260px;
+  background-color: #fefefe;
+  color: #333;
+  text-align: left;
+  border-radius: 8px;
+  padding: 12px;
+  position: absolute;
+  z-index: 999;
+  top: 125%;
+  left: 50%;
+  transform: translateX(-50%);
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.15);
+  transition: opacity 0.25s ease;
+  white-space: normal;
+  line-height: 1.4;
+}
+
+.popup .popup-content::after {
+  content: "";
+  position: absolute;
+  top: -8px;
+  left: 50%;
+  transform: translateX(-50%);
+  border-width: 8px;
+  border-style: solid;
+  border-color: transparent transparent #fefefe transparent;
+}
+
+.popup:hover .popup-content {
+  visibility: visible;
+  opacity: 1;
+}
+
