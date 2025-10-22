@@ -142,12 +142,12 @@ rusthound-ce -d DC01.certified.htb -u 'judith.mader@certified.htb' -p 'judith09'
 - We can follow the method detailed below, which is how I originally completed the box:
 
 To start, we'll mark `judith.mader` as owned.
-![Owned.png](assets/img/Certified/Owned.png)
+![Owned.png](/assets/img/Certified/Owned.png)
 
 Viewing the user data on the right-hand side, we'll scroll down to “Outbound Object Control”. Clicking this adds another node:
-![writeowner.webp](assets/img/Certified/writeowner.webp)
+![writeowner.webp](/assets/img/Certified/writeowner.webp)
 Continuing down this path, we very quickly end up with a graph that is as follows: 
-![attack-path.png](assets/img/Certified/attack-path.png)
+![attack-path.png](/assets/img/Certified/attack-path.png)
 
 ### Pretty picture, what does it mean?
 
@@ -169,7 +169,7 @@ judith.mader
 
 ## Abusing **WriteOwner** to add **Judith.Mader** to the **Management** group
 Clicking on the edge in Bloodhound from `Judith.Mader` to the `Management` group, we get a '*recipe*' for how to abuse this:
-![linuxattack.png](assets/img/Certified/linuxattack.png)
+![linuxattack.png](/assets/img/Certified/linuxattack.png)
 
 First, we'll use `owneredit.py`, to take ownership of the the `management` group as `judith.mader`:
 ```bash
