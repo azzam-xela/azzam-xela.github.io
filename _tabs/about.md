@@ -7,7 +7,7 @@ Howdy, I’m **Alex**!
 
 I'm currently a second-year mathematics student at the University of Western Australia.
 
-Despite initially falling in love with pure mathematics, I felt the real-world impact was missing. One day, I stumbled upon HackTheBox and that set in motion what has been an incredibly exciting journey into the world of infosec.
+Despite initially falling in love with pure mathematics, I felt like the real-world impact was missing. One day, I stumbled upon HackTheBox and that set in motion what has been an incredibly exciting journey into the world of infosec.
 
 Most of my focus so far has been on developing skills in penetration testing (as evidenced by my blog posts) primarily through HackTheBox labs and their academy. 
 
